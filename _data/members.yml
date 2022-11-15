@@ -1,0 +1,103 @@
+- firstname: Nils
+  lastname: Jansen
+  url: http://nilsjansen.org/
+  category: Head
+  image: prof_pic.jpg
+  # social
+  scholar_userid: zUavkyEAAAAJ # your Google Scholar ID
+  semanticscholar_userid: 40439910 # your Semantic Scholar ID
+  orcid_id: # your ORCID ID
+  medium_username: # your Medium username
+  quora_username: # your Quora username
+  publons_id: # your ID on Publons
+  research_gate_profile: # your profile on ResearchGate
+  blogger_url: # your blogger URL
+  work_url: # work page URL
+  keybase_username: # your keybase user name
+  wikidata_id: # your wikidata id
+  dblp_url: https://dblp.org/pid/32/8421-1 # your DBLP profile url
+  stackoverflow_id: # your stackoverflow id
+  kaggle_id: # your kaggle id
+  lastfm_id: # your lastfm id
+  spotify_id: # your spotify id
+  pinterest_id: # your pinterest id
+  unsplash_id: # your unsplash id
+  instagram_id: # your instagram id
+  facebook_id: # your facebook id
+  discord_id: # your discord id (18-digit unique numerical identifier)
+
+- firstname: Christoph
+  lastname: Schmidl
+  url: https://www.google.com
+  category: PhD
+  image: prof_pic.jpg
+  # social
+  scholar_userid: Yw8TY7gAAAAJ
+
+- firstname: Dennis
+  lastname: Gross
+  url: http://dennisgross.org/
+  category: PhD
+  image: prof_pic.jpg
+  # social
+  github_username: DennisGross
+  dblp_url: https://dblp.org/pid/264/9707
+
+- firstname: Marnix
+  lastname: Suilen
+  url: https://marnixsuilen.nl/
+  category: PhD
+  image: prof_pic.jpg
+  # social
+  scholar_userid: 8sS0Vv0AAAAJ
+  dblp_url: https://dblp.org/pid/258/5780
+
+- firstname: Murat
+  lastname: Cubuktepe
+  url: https://mcubuktepe.github.io/
+  category: PhD
+  image: prof_pic.jpg
+  # social
+  scholar_userid: Yw8TY7gAAAAJ
+
+- firstname: Steven
+  lastname: Carr
+  url: https://oden.utexas.edu/people/directory/Steven-Carr/
+  category: PhD
+  image: prof_pic.jpg
+  # social
+  scholar_userid: piNrz5sAAAAJ
+
+- firstname: Thom S.
+  lastname: Badings
+  url: https://thombadings.nl/
+  category: PhD
+  image: prof_pic.jpg
+  # social
+  scholar_userid: 7K6uKqoAAAAJ
+  dblp_url: https://dblp.org/pid/263/6527
+
+- firstname: Thiago D.
+  lastname: Simão
+  url: https://tdsimao.github.io/
+  # social
+  scholar_userid: uEq4AMUAAAAJ
+  dblp_url: https://dblp.org/pid/229/5739
+  category: Postdoc
+  image: prof_pic.jpg
+
+- firstname: Yannick 
+  lastname:  Hogewind 
+  url:
+  category: MSc
+  image: prof_pic.jpg
+  # social
+  github_username: yhogewind
+
+- firstname: Zaharah 
+  lastname: Allah Bukhsh
+  url: https://zaharah.github.io/
+  category: Former
+  image: prof_pic.jpg
+  # social
+  scholar_userid: UqNe4lIAAAAJ
