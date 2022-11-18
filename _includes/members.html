@@ -1,0 +1,33 @@
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="{{ member.url | relative_url }}">
+    <div class="card hoverable">
+      {%- if member.image %}
+        {%- assign profile_image_path = member.image | prepend: 'assets/img/members/' -%}
+        {%- include figure.html path=profile_image_path alt="project thumbnail" -%}
+      {%- endif %}
+      <div class="card-body">
+        <h4 class="card-title">{{ member.firstname }} {{ member.lastname }}</h4>
+        {%- if member.category == "Former" %}
+        <p class="card-text">{{ member.position }}</p>
+        <p class="card-text">Until: {{ member.exit_year }}</p>
+        <p class="card-text">Now: {{ member.newposition }}</p>
+        {%- else -%}
+        <p class="card-text">
+              {%- for i in member.interests -%}
+                - {{i}}
+              {%- endfor %}
+        </p>
+        {%- endif -%}
+        <div class="social">
+          <div class="contact-icons">
+            <div class="member">
+              {% include social.html social_info=member %}
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>  
+</div>
