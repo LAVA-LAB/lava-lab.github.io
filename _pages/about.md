@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: members/team.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Mercator 1 Building</p>
