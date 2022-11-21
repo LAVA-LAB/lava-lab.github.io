@@ -94,7 +94,9 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  <p>Mercator 1 Building</p>
+  <p>Toernooiveld 212</p>
+  <p>6525 EC Nijmegen</p>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
