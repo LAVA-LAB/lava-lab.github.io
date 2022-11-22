@@ -14,9 +14,11 @@
         <p class="card-text">Now: {{ member.newposition }}</p>
         {%- else -%}
         <p class="card-text">
-              {%- for i in member.interests -%}
-                - {{i}}
-              {%- endfor %}
+          <ul>
+            {%- for i in member.interests -%}
+            <li>{{i}}</li>
+            {%- endfor %}
+          </ul>
         </p>
         {%- endif -%}
         <div class="social">
