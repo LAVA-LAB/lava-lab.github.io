@@ -9,9 +9,10 @@
       <div class="card-body">
         <h4 class="card-title">{{ member.firstname }} {{ member.lastname }}</h4>
         {%- if member.category == "Former" %}
-        <p class="card-text">{{ member.position }}</p>
-        <p class="card-text">Until: {{ member.exit_year }}</p>
+        <p class="card-text">{{ member.position }} (until {{ member.exit_year }})</p>
+        {%- if member.newposition %}
         <p class="card-text">Now: {{ member.newposition }}</p>
+        {%- endif -%}
         {%- else -%}
         <p class="card-text">
           <ul>
