@@ -112,13 +112,17 @@
   dblp_url: https://dblp.org/pid/229/5739
   semanticscholar_id: 51893920
 
-- firstname: Thom S.
+- firstname: Thom
   lastname: Badings
   category: PhD
-  image: user.svg
+  image: thom.jpg
   url: https://thombadings.nl/
   # current
-  interests: todo
+  interests: 
+    - systems and control
+    - decision making under uncertainty
+    - formal abstractions of continuous systems
+    - predictive maintenance
   # social
   scholar_userid: 7K6uKqoAAAAJ
   dblp_url: https://dblp.org/pid/263/6527
