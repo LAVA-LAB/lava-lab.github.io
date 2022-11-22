@@ -49,6 +49,16 @@
   github_username: DennisGross
   dblp_url: https://dblp.org/pid/264/9707
 
+- firstname: Maris
+  lastname: Galesloot
+  category: MSc
+  image: user.svg
+  url:
+  # current
+  interests: todo
+  # social
+  github_username: marisgg
+
 - firstname: Marnix
   lastname: Suilen
   category: PhD
@@ -98,8 +108,18 @@
   scholar_userid: 7K6uKqoAAAAJ
   dblp_url: https://dblp.org/pid/263/6527
 
-- firstname: Yannick 
-  lastname:  Hogewind 
+- firstname: Wietze
+  lastname: Koops
+  category: MSc
+  image: user.svg
+  url:
+  # current
+  interests: todo
+  # social
+  github_username: wkoops
+
+- firstname: Yannick
+  lastname: Hogewind
   category: MSc
   image: user.svg
   url:
@@ -108,7 +128,7 @@
   # social
   github_username: yhogewind
 
-- firstname: Zaharah 
+- firstname: Zaharah
   lastname: Allah Bukhsh
   url: https://zaharah.github.io/
   category: Former
