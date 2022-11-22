@@ -1,13 +1,25 @@
 - firstname: Nils
   lastname: Jansen
   category: Head
-  image: user.svg
+  image: nils.jpg
   url: http://nilsjansen.org/
   # current
-  interests: foundational and application-driven research in artificial intelligence (AI)
+  interests:
+    - artificial intelligence
+    - planning under uncertainty
+    - POMDPs
+    - safe reinforcement learning
+    - formal verification
   # social
+  github_username: # your GitHub user name
+  gitlab_username: # your GitLab user name
+  twitter_username: thesuperjansen # your Twitter handle
+  mastodon_username: # your mastodon username
+  mastodon_instance: # your mastodon instance
+  linkedin_username: nils-jansen-48458011a # your LinkedIn user name
   scholar_userid: zUavkyEAAAAJ # your Google Scholar ID
-  semanticscholar_userid: 40439910 # your Semantic Scholar ID
+  semanticscholar_id: 35252898 # your Semantic Scholar ID
+  whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
   orcid_id: # your ORCID ID
   medium_username: # your Medium username
   quora_username: # your Quora username
@@ -17,7 +29,7 @@
   work_url: # work page URL
   keybase_username: # your keybase user name
   wikidata_id: # your wikidata id
-  dblp_url: https://dblp.org/pid/32/8421-1 # your DBLP profile url
+  dblp_url: https://dblp.org/pid/32/8421-1.html # your DBLP profile url
   stackoverflow_id: # your stackoverflow id
   kaggle_id: # your kaggle id
   lastfm_id: # your lastfm id
@@ -32,11 +44,11 @@
   lastname: Schmidl
   category: PhD
   image: user.svg
-  url: https://www.google.com
+  url: https://www.cs.ru.nl/staff/Christoph.Schmidl
   # current
   interests: todo
   # social
-  scholar_userid: Yw8TY7gAAAAJ
+  github_username: ChristophSchmidl
 
 - firstname: Dennis
   lastname: Gross
@@ -73,12 +85,12 @@
 - firstname: Steven
   lastname: Carr
   category: Former
-  image: user.svg
+  image: steven.jpg
   url: https://oden.utexas.edu/people/directory/Steven-Carr/
   # former
   position: PhD
   newposition:
-  exit_year: 2020
+  exit_year: 2022
   # social
   scholar_userid: piNrz5sAAAAJ
 
@@ -86,16 +98,19 @@
   lastname: Simão
   image: user.svg
   category: Postdoc
-  image: user.svg
+  image: thiago.jpg
   url: https://tdsimao.github.io/
   # current
   interests:
-    - Safe RL
-    - Probabilistic Planning
+    - decision making under uncertainty
+    - safe reinforcement learning
+    - offline reinforcement learning
+    - probabilistic planning
     - AI
   # social
   scholar_userid: uEq4AMUAAAAJ
   dblp_url: https://dblp.org/pid/229/5739
+  semanticscholar_id: 51893920
 
 - firstname: Thom S.
   lastname: Badings
@@ -128,14 +143,14 @@
   # social
   github_username: yhogewind
 
-- firstname: Zaharah
-  lastname: Allah Bukhsh
+- firstname: Zaharah A.
+  lastname: Bukhsh
   url: https://zaharah.github.io/
   category: Former
   # former
   position: Postdoc
-  newposition: Assistant Professor
-  image: user.svg
+  newposition: Assistant Professor at Eindhoven University of Technology
+  image: zaharah.png
   exit_year: 2021
   # social
   scholar_userid: UqNe4lIAAAAJ
