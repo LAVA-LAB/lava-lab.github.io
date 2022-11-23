@@ -64,12 +64,16 @@
 - firstname: Maris
   lastname: Galesloot
   category: MSc
-  image: user.svg
+  image: maris.jpg
   url:
   # current
-  interests: todo
+  interests: 
+    - (multi-agent) reinforcement learning
+    - deep learning
+    - dependable AI
   # social
   github_username: marisgg
+  linkedin_username: maris-galesloot
 
 - firstname: Marnix
   lastname: Suilen
