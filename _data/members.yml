@@ -81,10 +81,15 @@
   image: user.svg
   url: https://marnixsuilen.nl/
   # current
-  interests: todo
+  interests:
+    - decision making under uncertainty
+    - POMDPs
+    - formal verification
+    - artificial intelligence
   # social
   scholar_userid: 8sS0Vv0AAAAJ
   dblp_url: https://dblp.org/pid/258/5780
+  twitter_username: marnixsuilen
 
 - firstname: Steven
   lastname: Carr
