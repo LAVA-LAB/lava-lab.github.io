@@ -11,6 +11,16 @@ layout: default
 
           <article>
             {{ content }}
+
+            {%- capture num_citations -%}
+            {%- bibliography_count --cited -%}
+            {%- endcapture -%}
+
+            {%- if num_citations != "0" -%}
+            <h4 id=references>References</h4>
+            {% bibliography --cited_in_order %}
+            {%- endif -%}
+
           </article>
 
         </div>
