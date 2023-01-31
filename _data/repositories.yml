@@ -5,3 +5,5 @@ github_repos:
   - LAVA-LAB/COOL-MC
   - LAVA-LAB/luiaard
   - LAVA-LAB/slurf
+  - LAVA-LAB/spi_pomdp
+  - LAVA-LAB/pogym
