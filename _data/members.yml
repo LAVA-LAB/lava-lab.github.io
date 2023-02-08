@@ -78,7 +78,7 @@
 - firstname: Marnix
   lastname: Suilen
   category: PhD
-  image: user.svg
+  image: marnix.jpg
   url: https://marnixsuilen.nl/
   # current
   interests:
@@ -86,6 +86,7 @@
     - POMDPs
     - formal verification
     - artificial intelligence
+    - offline reinforcement learning
   # social
   scholar_userid: 8sS0Vv0AAAAJ
   dblp_url: https://dblp.org/pid/258/5780
