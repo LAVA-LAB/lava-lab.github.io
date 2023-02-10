@@ -100,3 +100,34 @@ Get some inspiration from [clear off the table](https://www.darkhorseanalytics.c
 </div>        
 
 For :snake:python/:panda_face:pandas users, consider using [pandas.DataFrame.to_latex](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_latex.html) :heart: to export your dataframe to a latex table.
+
+### Math
+
+#### Inline math
+For inline math, that is, math inside a sentence, use `$\sum_{x \in X} x$`.
+
+For better spacing, try to keep inline math at the same lineheight. Commands like `\frac{1}{2}` will be larger than the line and add white space above and below. Instead, use `$\nicefrac{1}{2}$`.
+
+#### Display math
+
+Display math can be done in several ways. For single equations, use
+```latex
+\[
+\sum_{x \in X} x
+\]
+
+% or
+\begin{equation}
+\sum_{x \in X} x
+\end{equation}
+```
+Make sure equations you want to refer to later are numbered.
+
+Multiple lines of math, for example to write equation systems or if your equation doesn't fit a single line, can be done via the align environment:
+```latex
+\begin{align}
+\sum_{x \in X} & = f(x) \\
+	& + g(x). 
+\end{align}
+```
+
