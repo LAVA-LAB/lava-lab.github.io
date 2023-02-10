@@ -16,7 +16,7 @@ nav_order: 5
 	```latex
 	[...] given an action~$a$ [...]
 	```
-
+4. Use vectorized figures.
 
 ### Useful packages
 
