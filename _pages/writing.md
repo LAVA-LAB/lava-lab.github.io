@@ -38,6 +38,7 @@ nav_order: 5
     ```latex
     Here we see some `text in quotes'.
     ```
+9. If you see an error, fix it. It is good practice to keep a file without errors or warnings, this way when you add an error it is easy to find the problem.
 
 ### Useful packages
 
