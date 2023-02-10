@@ -17,6 +17,27 @@ nav_order: 5
 	[...] given an action~$a$ [...]
 	```
 4. Use vectorized figures.
+5. Be consistent.
+    - either British or American English
+    - uniform capitalization of each heading level
+6. Use `\colon` instead of `:` in function definitions, e.g.
+    ```latex
+    $T \colon  S \times A \rightarrow \Delta(S)$
+    ```
+7. Punctuate equations since they are part of the text:
+    ```latex
+    Mathematical expressions can be ``inline'' like this: $x^2+y^2=z^2$,
+    or ``displayed'' like this:
+    %
+    \begin{equation*}
+    x^2+y^2=z^2.
+    \end{equation*}
+    %
+    ```
+8. Use the right quotation marks.
+    ```latex
+    Here we see some `text in quotes'.
+    ```
 
 ### Useful packages
 
