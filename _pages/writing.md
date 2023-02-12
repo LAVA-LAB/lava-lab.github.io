@@ -44,6 +44,7 @@ nav_order: 5
 
 #### Citations
 
+The [natbib package](https://gking.harvard.edu/files/natnotes2.pdf) allow us to work with both author–year and numerical citations.
 
 ```latex
 % preamble: \uspackage{natbib}
