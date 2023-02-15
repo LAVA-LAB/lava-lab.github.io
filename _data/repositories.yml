@@ -7,3 +7,5 @@ github_repos:
   - LAVA-LAB/slurf
   - LAVA-LAB/spi_pomdp
   - LAVA-LAB/pogym
+  - LAVA-LAB/DynAbs
+  - LAVA-LAB/MC_PIA
