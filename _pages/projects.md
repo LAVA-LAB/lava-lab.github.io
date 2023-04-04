@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Projects available for MSc thesis and interships.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [open, past]
 horizontal: false

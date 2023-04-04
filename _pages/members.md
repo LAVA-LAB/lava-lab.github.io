@@ -4,7 +4,7 @@ title: members
 permalink: /members/
 description: List of members.
 nav: true
-nav_order: 7
+nav_order: 1
 member_categories: [Head, PhD, Postdoc, MSc, Former]
 horizontal: false
 ---
