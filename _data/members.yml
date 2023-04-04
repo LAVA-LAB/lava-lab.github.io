@@ -61,9 +61,19 @@
   github_username: DennisGross
   dblp_url: https://dblp.org/pid/264/9707
 
+- firstname: Eline
+  lastname: Bovy
+  category: PhD
+  image: user.svg
+  url: https://www.cs.ru.nl/staff/Eline.Bovy
+  # current
+  interests: todo
+  # social
+  github_username: ElineBovy
+
 - firstname: Maris
   lastname: Galesloot
-  category: MSc
+  category: PhD
   image: maris.jpg
   url:
   # current
@@ -91,6 +101,16 @@
   scholar_userid: 8sS0Vv0AAAAJ
   dblp_url: https://dblp.org/pid/258/5780
   twitter_username: marnixsuilen
+
+- firstname: Merlijn
+  lastname: Krale
+  category: PhD
+  image: user.svg
+  url: https://www.cs.ru.nl/staff/Merlijn.Krale
+  # current
+  interests: todo
+  # social
+  github_username: MKrale
 
 - firstname: Steven
   lastname: Carr
