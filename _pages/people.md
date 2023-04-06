@@ -1,11 +1,11 @@
 ---
 layout: page
-title: members
-permalink: /members/
+title: people
+permalink: /people/
 description: List of members.
 nav: true
 nav_order: 1
-member_categories: [Head, PhD, Postdoc, MSc, Former]
+member_categories: [Head, PhD, Postdoc, ELLIS Excellence Fellow, Former]
 horizontal: false
 ---
 
