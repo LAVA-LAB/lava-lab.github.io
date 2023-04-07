@@ -1,0 +1,45 @@
+2022: 
+  - author: Pleun Koldewijn
+    year: 2022
+    title: "Optimal Order Execution for FX trading"
+
+2021:
+  - author: Marck van der Vegt
+    year: 2021
+    title: "Model Learning of Deterministic MDPs"
+
+  - author: Serena Rietbergen
+    year: 2021
+    title: "History-based Rewards for POMDPs"
+
+  - author: Ilse Pool
+    year: 2021
+    title: "Optimal Maintenance Strategies for an Industrial Scrubber System"
+    url: https://primavera-project.com/wp-content/uploads/2022/01/PrimaVera_factsheet_Ilse_Pool_2021.pdf
+
+  - author: Reinier Joosse
+    year: 2021
+    title: "Evaluating Adversarial Attack Detectors using Formal Verification Methods"
+    url: https://www.ru.nl/publish/pages/769526/reinier_joosse.pdf
+
+  - author: David Kerkkamp
+    year: 2021
+    title: "Grouping of Maintenance Actions on Sewer Pipes: Using Deep Reinforcement Learning and Graph Neural Networks"
+    papers:
+
+
+  - author: Nils Neerhof
+    year: 2021
+    title: "Formal Verification in Uncertain POMDPs"
+    url: https://repository.tudelft.nl/islandora/object/uuid%3A993a1c37-f38f-43eb-abd6-4e7b4e848b6c
+
+2020:
+  - author: Christoph Schmidl
+    year: 2020
+    title: "Approximating Black-Box Deep Neural Networks using Active Learning as a Proxy Measurement for Robustness"
+
+  - author: Marnix Suilen
+    year: 2020
+    title: "Entropy-guided decision making in multiple-environment Markov decision processes"
+    url: https://marnixsuilen.nl/files/Master_thesis.pdf
+
