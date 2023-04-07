@@ -20,7 +20,7 @@ The goal is to speed up learning on a target task while ensuring safety.
     </div>
 </div>
 <div class="caption">
-    How to train a policy in a source task such that it can learn quickly and safely_ how to solve the target task?
+    How to train a policy in a source task such that it can learn quickly and safely learn how to solve the target task?
 </div>
 
 
