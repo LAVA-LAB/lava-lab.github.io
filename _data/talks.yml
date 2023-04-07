@@ -1,0 +1,12 @@
+2023:
+  - title: "Safe Policy Improvement for POMDPs via Finite-State Controllers"
+    location: AAAI 2023
+    date: 2023-02-12
+  - title: "Probabilities Are Not Enough: Formal Controller Synthesis for Stochastic Dynamical Models with Epistemic Uncertainty"
+    location: AAAI 2023
+    date: 2023-02-10
+2022:
+  - title: "Robust Anytime Learning of Markov Decision Processes"
+    location: NeurIPS2022
+    date: 2022-12-09
+    url: https://nips.cc/media/PosterPDFs/NeurIPS%202022/52888.png?t=1669977825.6554694
