@@ -275,6 +275,10 @@ blockquote {
 }
 
 
+// Social (bottom)
+
+
+
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
@@ -463,6 +467,43 @@ footer.sticky-bottom {
 }
 
 
+// People
+
+.people {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  h2.category {
+    color: var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+
+  .social_card {
+    font-size: 1.5rem;
+    a {
+      i::before {
+        color: var(--global-text-color);
+        transition-property: all 0.2s ease-in-out;
+      }
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+}
 // Publications
 
 .publications {

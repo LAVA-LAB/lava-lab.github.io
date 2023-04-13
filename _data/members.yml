@@ -1,6 +1,6 @@
 - firstname: Nils
   lastname: Jansen
-  category: Head
+  category: Faculty
   image: nils.jpg
   url: http://nilsjansen.org/
   # current
@@ -114,7 +114,7 @@
 
 - firstname: Steven
   lastname: Carr
-  category: Former
+  category: Former Member
   image: steven.jpg
   url: https://oden.utexas.edu/people/directory/Steven-Carr/
   # former
@@ -130,6 +130,9 @@
   category: Postdoc
   image: thiago.jpg
   url: https://tdsimao.github.io/
+  teaser: >
+      The motivation for my research revolves around making AI techniques more reliable, to enable their deployment in real-world applications.
+      I focus on developing AI algorithms for scenarios with constrained interactions with an unknown environment.
   # current
   interests:
     - decision making under uncertainty
@@ -181,7 +184,7 @@
 - firstname: Zaharah A.
   lastname: Bukhsh
   url: https://zaharah.github.io/
-  category: Former
+  category: Former Member
   # former
   position: Postdoc
   newposition: Assistant Professor at Eindhoven University of Technology

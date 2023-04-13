@@ -1,36 +1,43 @@
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="{{ member.url | relative_url }}">
+  <p>
     <div class="card hoverable">
-      {%- if member.image %}
-        {%- assign profile_image_path = member.image | prepend: 'assets/img/members/' -%}
-        {%- include figure.html path=profile_image_path alt="project thumbnail" -%}
-      {%- endif %}
-      <div class="card-body">
-        <h4 class="card-title">{{ member.firstname }} {{ member.lastname }}</h4>
-        {%- if member.category == "Former" %}
-        <p class="card-text">{{ member.position }} (until {{ member.exit_year }})</p>
-        {%- if member.newposition %}
-        <p class="card-text">Now: {{ member.newposition }}</p>
-        {%- endif -%}
-        {%- else -%}
-        <p class="card-text">
-          <ul>
-            {%- for i in member.interests -%}
-            <li>{{i}}</li>
-            {%- endfor %}
-          </ul>
-        </p>
-        {%- endif -%}
-        <div class="social">
-          <div class="contact-icons">
-            <div class="member">
-              {% include social.html social_info=member %}
+        <div class="row no-gutters">
+            <div class="col-3 col-md-2">
+                {%- assign profile_image_path = member.image | prepend: 'assets/img/members/' -%}
+                {%- include figure.html path=profile_image_path alt="thumbnail" -%}
             </div>
-
-          </div>
+            <div class="col-9 col-md-10">
+                <div class="card-body">
+                    <div class="position-relative">
+                      <div class="social_card float-right">
+                          <a href="{{ member.url }}" title="Personal Webpage"><i class="fa fa-home"></i></a>
+                          {% include social.html social_info=member %}
+                      </div>
+                    </div>
+                    <a href="{{ member.url | relative_url }}">
+                    <h4 class="card-title">{{ member.firstname }} {{ member.lastname }}</h4>
+                    {%- if member.category == "Former Member" %}
+                    <p class="card-text">{{ member.position }} (until {{ member.exit_year }})</p>
+                      {%- if member.newposition %}
+                      <p class="card-text">Now: {{ member.newposition }}</p>
+                      {%- endif -%}
+                    {%- else -%}
+                      {% if member.teaser %} <p class="card-text ">{{ member.teaser }}</p>{% endif %}
+                      {% if member.position %}<p class="card-subtitle mb-2 text-muted">{{ member.position }}</p>{% endif %}
+                      {% if member.interests %}
+                      <p class="card-text">
+                        <ul class="list-inline ">
+                          {%- for i in member.interests -%}
+                          <li class="list-inline-item text-muted small">
+                            &#x2022; {{i}}
+                          </li>
+                          {%- endfor %}
+                        </ul>
+                      </p>
+                    {%- endif -%}
+                    {%- endif -%}
+                    </a>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </a>  
-</div>
+  </p>
