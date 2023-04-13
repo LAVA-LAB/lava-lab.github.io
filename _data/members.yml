@@ -107,18 +107,6 @@
   # social
   github_username: MKrale
 
-- firstname: Steven
-  lastname: Carr
-  category: Former Member
-  image: steven.jpg
-  url: https://oden.utexas.edu/people/directory/Steven-Carr/
-  # former
-  position: PhD
-  newposition:
-  exit_year: 2022
-  # social
-  scholar_userid: piNrz5sAAAAJ
-
 - firstname: Thiago D.
   lastname: Simão
   image: user.svg
