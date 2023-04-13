@@ -3,7 +3,9 @@
   category: Faculty
   image: nils.jpg
   url: http://nilsjansen.org/
-  # current
+  teaser: >
+    I am interested in various aspects of dependability and safety in AI, intelligent decision-making under uncertainty, and safe reinforcement learning.
+    A key aspect of my research is a thorough understanding of the (epistemic or aleatoric) uncertainty that may occur when AI systems operate in the real world.
   interests:
     - artificial intelligence
     - planning under uncertainty
@@ -45,8 +47,6 @@
   category: PhD
   image: user.svg
   url: https://www.cs.ru.nl/staff/Christoph.Schmidl
-  # current
-  interests: todo
   # social
   github_username: ChristophSchmidl
 
@@ -55,8 +55,6 @@
   category: PhD
   image: user.svg
   url: http://dennisgross.org/
-  # current
-  interests: todo
   # social
   github_username: DennisGross
   dblp_url: https://dblp.org/pid/264/9707
@@ -66,8 +64,6 @@
   category: PhD
   image: user.svg
   url: https://www.cs.ru.nl/staff/Eline.Bovy
-  # current
-  interests: todo
   # social
   github_username: ElineBovy
 
@@ -75,8 +71,7 @@
   lastname: Galesloot
   category: PhD
   image: maris.jpg
-  url:
-  # current
+  url: https://marisgg.github.io/
   interests: 
     - (multi-agent) reinforcement learning
     - deep learning
@@ -90,7 +85,9 @@
   category: PhD
   image: marnix.jpg
   url: https://marnixsuilen.nl/
-  # current
+  teaser: >
+    My research interests are formal verification and learning in probabilistic systems such as (partially observable) Markov decision processes and variations that extend these models with uncertainty.
+    Other interests include coalgebra (especially for probabilistic systems), (robust) convex optimization, and algorithms in general. 
   interests:
     - decision making under uncertainty
     - POMDPs
@@ -107,8 +104,6 @@
   category: PhD
   image: user.svg
   url: https://www.cs.ru.nl/staff/Merlijn.Krale
-  # current
-  interests: todo
   # social
   github_username: MKrale
 
@@ -133,7 +128,6 @@
   teaser: >
       The motivation for my research revolves around making AI techniques more reliable, to enable their deployment in real-world applications.
       I focus on developing AI algorithms for scenarios with constrained interactions with an unknown environment.
-  # current
   interests:
     - decision making under uncertainty
     - safe reinforcement learning
@@ -150,7 +144,9 @@
   category: PhD
   image: thom.jpg
   url: https://thombadings.nl/
-  # current
+  teaser: >
+    My primary research interests are on the intersection between Engineering, Systems & Control, and Formal Verification.
+    Currently, I am working on sequential decision making under uncertainty with correctness guarantees, with applications to autonomous and robotics systems, predictive maintenance, and electrical power systems.
   interests: 
     - systems and control
     - decision making under uncertainty
@@ -166,8 +162,6 @@
   category: ELLIS Excellence Fellow
   image: user.svg
   url:
-  # current
-  interests: todo
   # social
   github_username: wkoops
 
@@ -176,8 +170,6 @@
   category: ELLIS Excellence Fellow
   image: user.svg
   url:
-  # current
-  interests: todo
   # social
   github_username: yhogewind
 
