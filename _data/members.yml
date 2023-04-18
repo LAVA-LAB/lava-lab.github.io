@@ -63,6 +63,7 @@
   # social
   github_username: DennisGross
   dblp_url: https://dblp.org/pid/264/9707
+
 - firstname: Eline
   lastname: Bovy
   position: PhD
@@ -76,6 +77,9 @@
   position: PhD
   image: maris.jpg
   url: https://marisgg.github.io/
+  teaser: >
+    My primary research interests lie in sequential decision making in uncertain environments with partial observability.
+    My work focuses on the intersection of a formal model-based approach and neural function approximation methods in reinforcement learning and aims to improve the scalability, applicability, and robustness of these algorithms in the real world.
   interests: 
     - (multi-agent) reinforcement learning
     - deep learning
@@ -106,10 +110,18 @@
 - firstname: Merlijn
   lastname: Krale
   position: PhD
-  image: user.svg
+  image: merlijn.jpeg
   url: https://www.cs.ru.nl/staff/Merlijn.Krale
+  teaser: >
+    I am interested in model-based algorithms with strong theoretical foundations for complex decision-making processes.
+    My current work focusses on partially-observable environments where agents have explicity control over their observations.
+  interests:
+    - POMDPs
+    - robustness
+    - model abstractions
   # social
   github_username: MKrale
+  dblp_url: https://dblp.org/pid/342/7840.html
 
 - firstname: Thiago D.
   lastname: Simão
