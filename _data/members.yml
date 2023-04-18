@@ -1,6 +1,6 @@
 - firstname: Nils
   lastname: Jansen
-  category: Faculty
+  position: Faculty
   image: nils.jpg
   url: http://nilsjansen.org/
   teaser: >
@@ -44,24 +44,28 @@
 
 - firstname: Christoph
   lastname: Schmidl
-  category: PhD
-  image: user.svg
+  position: PhD
+  image: christoph.png
   url: https://www.cs.ru.nl/staff/Christoph.Schmidl
   # social
   github_username: ChristophSchmidl
 
 - firstname: Dennis
   lastname: Gross
-  category: PhD
-  image: user.svg
+  position: PhD
+  image: dennis.jpg
   url: http://dennisgross.org/
+  teaser: >
+    I am a PhD student at the department of software science at Radboud University, working on the formal verification of neural network classifiers and policies under supervision of dr. Nils Jansen, dr. Guillermo Alberto Perez, and prof. dr. Frits Vaandrager.
+  interests:
+    - formal methods
+    - machine learning
   # social
   github_username: DennisGross
   dblp_url: https://dblp.org/pid/264/9707
-
 - firstname: Eline
   lastname: Bovy
-  category: PhD
+  position: PhD
   image: user.svg
   url: https://www.cs.ru.nl/staff/Eline.Bovy
   # social
@@ -69,7 +73,7 @@
 
 - firstname: Maris
   lastname: Galesloot
-  category: PhD
+  position: PhD
   image: maris.jpg
   url: https://marisgg.github.io/
   interests: 
@@ -82,7 +86,7 @@
 
 - firstname: Marnix
   lastname: Suilen
-  category: PhD
+  position: PhD
   image: marnix.jpg
   url: https://marnixsuilen.nl/
   teaser: >
@@ -101,7 +105,7 @@
 
 - firstname: Merlijn
   lastname: Krale
-  category: PhD
+  position: PhD
   image: user.svg
   url: https://www.cs.ru.nl/staff/Merlijn.Krale
   # social
@@ -110,7 +114,7 @@
 - firstname: Thiago D.
   lastname: Simão
   image: user.svg
-  category: Postdoc
+  position: Postdoc
   image: thiago.jpg
   url: https://tdsimao.github.io/
   teaser: >
@@ -129,7 +133,7 @@
 
 - firstname: Thom
   lastname: Badings
-  category: PhD
+  position: PhD
   image: thom.jpg
   url: https://thombadings.nl/
   teaser: >
@@ -147,7 +151,7 @@
 
 - firstname: Wietze
   lastname: Koops
-  category: ELLIS Excellence Fellow
+  position: ELLIS Excellence Fellow
   image: user.svg
   url:
   # social
@@ -155,20 +159,33 @@
 
 - firstname: Yannick
   lastname: Hogewind
-  category: ELLIS Excellence Fellow
-  image: user.svg
+  image: yannick.jpeg
+  position: ELLIS Excellence Fellow
   url:
   # social
+  former: true
   github_username: yhogewind
+  start_year: 2021
+  exit_year: 2023
 
 - firstname: Zaharah A.
   lastname: Bukhsh
   url: https://zaharah.github.io/
-  category: Former Member
-  # former
   position: Postdoc
+  teaser: >
+    My research focus on developing tools and techniques to improve operational processes.
+    The core research areas include business intelligence, business engineering and process engineering.
+  # former
+  former: true
+  start_year: 2020
+  exit_year: 2021
   newposition: Assistant Professor at Eindhoven University of Technology
   image: zaharah.png
-  exit_year: 2021
   # social
   scholar_userid: UqNe4lIAAAAJ
+  interests:
+    - data-driven decision-making
+    - predictive maintenance
+    - deep reinforcement learning
+    - business process monitoring and optimisation
+    - self-supervised and transfer learning

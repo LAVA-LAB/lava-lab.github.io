@@ -15,14 +15,15 @@
                     </div>
                     <a href="{{ member.url | relative_url }}">
                     <h4 class="card-title">{{ member.firstname }} {{ member.lastname }}</h4>
-                    {%- if member.category == "Former Member" %}
-                    <p class="card-text">{{ member.position }} (until {{ member.exit_year }})</p>
-                      {%- if member.newposition %}
-                      <p class="card-text">Now: {{ member.newposition }}</p>
+                    {%- if member.former %}
+                    <p class="card-text">{{ member.position }} ({{ member.start_year }} - {{ member.exit_year }})
+                    </p>
+                      {%- if member.newposition -%}
+                      <p class="card-text"><span class="font-weight-bold"> Next:</span> {{ member.newposition }}</p>
                       {%- endif -%}
                     {%- else -%}
+                    {%- endif -%}
                       {% if member.teaser %} <p class="card-text ">{{ member.teaser }}</p>{% endif %}
-                      {% if member.position %}<p class="card-subtitle mb-2 text-muted">{{ member.position }}</p>{% endif %}
                       {% if member.interests %}
                       <p class="card-text">
                         <ul class="list-inline ">
@@ -33,7 +34,6 @@
                           {%- endfor %}
                         </ul>
                       </p>
-                    {%- endif -%}
                     {%- endif -%}
                     </a>
                 </div>
