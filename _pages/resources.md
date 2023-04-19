@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /code/
-title: code
+permalink: /resources/
+title: resources
 description:  Pointers to software developed in the group.
 nav: true
 nav_order: 3

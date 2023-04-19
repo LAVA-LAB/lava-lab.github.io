@@ -3,7 +3,7 @@ layout: page
 title: talks
 permalink: /talks/
 description: Presentations given by members of the group.
-nav: true
+nav: false
 nav_order: 4
 display_categories: [open, past]
 horizontal: false
