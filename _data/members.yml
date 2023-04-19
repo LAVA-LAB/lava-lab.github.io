@@ -46,9 +46,23 @@
   lastname: Schmidl
   position: PhD
   image: christoph.png
-  url: https://www.cs.ru.nl/staff/Christoph.Schmidl
+  url: https://cschmidl.com/
+  teaser: >
+    My research interests are safe reinforcement learning and formal verification applied to real-world scheduling problems.
+    My current work focuses on robust scheduler learning with constrained interactions using reinforcement learning techniques applied to different shop types such as job shops and flow shops.
+  interests:
+    - safe reinforcement learning
+    - scheduling
+    - robustness
+    - AI
+    - DevOps
+    - formal verification
+    - security
   # social
   github_username: ChristophSchmidl
+  scholar_userid: OgGLzqsAAAAJ
+  linkedin_username: schmidl-christoph
+  twitter_username: c_schmidl
 
 - firstname: Dennis
   lastname: Gross
