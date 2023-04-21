@@ -96,9 +96,9 @@
     My primary research interests lie in sequential decision making in uncertain environments with partial observability.
     My work focuses on the intersection of a formal model-based approach and neural function approximation methods in reinforcement learning and aims to improve the scalability, applicability, and robustness of these algorithms in the real world.
   interests: 
-    - (multi-agent) reinforcement learning
+    - model-based reinforcement learning
     - deep learning
-    - dependable AI
+    - online planning
   # social
   github_username: marisgg
   linkedin_username: maris-galesloot
