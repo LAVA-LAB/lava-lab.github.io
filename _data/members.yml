@@ -179,8 +179,21 @@
 - firstname: Wietze
   lastname: Koops
   position: ELLIS Excellence Fellow
-  image: user.svg
+  image: wietze.jpg
   url:
+  teaser: >
+    I am interested in decision making problems from various perspectives.
+    Currently, I am focussing on developing exact and approximate algorithms for solving Decentralized POMDPs.
+    In general, I have broad interests including mathematics (in particular combinatorics, probability theory and optimization), operations research, machine learning and algorithms.
+  interests: 
+    - decision making
+    - design of algorithms
+    - probability theory
+    - optimization
+    - operations research
+    - microeconomics
+    - machine learning
+    - decentralized POMDPs
   # social
   github_username: wkoops
 
