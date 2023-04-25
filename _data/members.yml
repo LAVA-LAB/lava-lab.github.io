@@ -82,10 +82,18 @@
 - firstname: Eline
   lastname: Bovy
   position: PhD
-  image: user.svg
-  url: https://www.cs.ru.nl/staff/Eline.Bovy
+  image: eline.jpg
+  url: https://elinebovy.github.io/
+  teaser: >
+    My research interests are formal verification and decision-making problems.
+    My current work focuses on uncertain partially observable Markov decision processes.
+  interests:
+    - Formal verification
+    - Decision making under uncertainty
+    - POMDPs
   # social
   github_username: ElineBovy
+  linkedin_username: eline-bovy
 
 - firstname: Maris
   lastname: Galesloot
