@@ -88,8 +88,8 @@
     My research interests are formal verification and decision-making problems.
     My current work focuses on uncertain partially observable Markov decision processes.
   interests:
-    - Formal verification
-    - Decision making under uncertainty
+    - formal verification
+    - decision making under uncertainty
     - POMDPs
   # social
   github_username: ElineBovy
