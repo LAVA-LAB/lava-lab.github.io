@@ -11,6 +11,7 @@
 - author: Eline Bovy
   title: "The Underlying Belief Model of Uncertain Partially Observable Markov Decision Processes"
   year: 2023
+  url: https://elinebovy.github.io/assets/pdf/Masterthesis_Eline_Bovy.pdf
 
 - author: Yannick Hogewind
   title: "Safe Reinforcement Learning From Pixel Observations Using a Stochastic Latent Actor-Critic"
