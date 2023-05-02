@@ -8,8 +8,11 @@ children:
     - title: open projects
       permalink: /projects/#open
     - title: divider
-    - title: past projects
-      permalink: /projects/#past
+    - title: ongoing projects
+      permalink: /projects/#ongoing
+    - title: divider
+    - title: complete projects
+      permalink: /projects/#complete
     - title: divider
     - title: writing tips
       permalink: /writing/

@@ -5,7 +5,6 @@ permalink: /projects/
 description: Projects available for MSc thesis and interships.
 nav: false
 nav_order: 0
-display_categories: [open]
 horizontal: false
 ---
 
@@ -58,18 +57,56 @@ horizontal: false
 </div>
 
 
+
+
 <div class="projects">
-<h2 class="category" id="past">past</h2>
+<h2 class="category" id="ongoing">ongoing</h2>
 </div>
 
 <div class="news">
   <div class="table-responsive">
     <table class="table table-sm table-borderless">
-    {% for thesis_year in site.data.thesis %}
-      {% for thesis in thesis_year[1] %}
+    {%- assign thesis_ongoing = site.data.thesis | where: "year", nil -%}
+    {% for thesis in thesis_ongoing %}
         <tr>
           {% if forloop.first %}
-          <th scope="row">{{ thesis.year }}</th>
+          <th scope="row"></th>
+            {% else %}
+          <th scope="row"></th>
+          {% endif %}
+          <td>
+          <ul><li>
+          {% if thesis.url %}
+              <a class="news-title" href="{{ thesis.url | relative_url }}">
+                {{ thesis.title }}
+              </a>
+            {% else %}
+                {{ thesis.title }}
+          {% endif %}
+              <br>
+              {{ thesis.author }}
+          </li></ul>
+          </td>
+        </tr>
+    {%- endfor %}
+    </table>
+  </div>
+</div>
+
+
+<div class="projects">
+<h2 class="category" id="complete">complete</h2>
+</div>
+
+<div class="news">
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+    {%- assign thesis_complete = site.data.thesis | where_exp:"item", "item.year != nil" | group_by: "year" -%}
+    {% for group in thesis_complete %}
+      {% for thesis in group.items %}
+        <tr>
+          {% if forloop.first %}
+          <th scope="row">{{ group.name }}</th>
             {% else %}
           <th scope="row"></th>
           {% endif %}
