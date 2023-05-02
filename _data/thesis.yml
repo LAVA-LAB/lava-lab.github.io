@@ -5,6 +5,9 @@
   title: "Reinforcement Learning in Partially Observable Environments with Active Measuring"
   url: https://arxiv.org/pdf/2303.08271.pdf
 
+- author: Maris Galesloot
+  title: "Scalable Multi-Agent Online Planning in Partially Observable Environments"
+
 - author: Eline Bovy
   title: "The Underlying Belief Model of Uncertain Partially Observable Markov Decision Processes"
   year: 2023
