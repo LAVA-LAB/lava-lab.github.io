@@ -1,6 +1,9 @@
 - author: Mees Meuwissen
   title: "Sensitivity-guided Exploration for Learning Markov Chains"
 
+- author: Bram Pellen
+  title: "Robust Permisive Policies for Interval Markov Decision Processes"
+
 - author: Merlijn Krale
   title: "Reinforcement Learning in Partially Observable Environments with Active Measuring"
   url: https://arxiv.org/pdf/2303.08271.pdf
