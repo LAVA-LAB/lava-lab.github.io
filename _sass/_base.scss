@@ -546,7 +546,7 @@ footer.sticky-bottom {
         margin-bottom: 0.5rem;
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: var(--informal-color);
           padding-left: 1rem;
           padding-right: 1rem;
           a {
@@ -555,6 +555,15 @@ footer.sticky-bottom {
               text-decoration: none;
             }
           }
+        }
+        .article {
+          background-color: var(--journal-color);
+        }
+        .inproceedings {
+          background-color: var(--conference-color);
+        }
+        .phdthesis {
+          background-color: var(--monographs-color);
         }
         .award {
           color: var(--global-theme-color) !important;

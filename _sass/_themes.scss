@@ -16,6 +16,12 @@
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
 
+  --journal-color: #{$publications-journal-color};
+  --conference-color: #{$publications-conference-color};
+  --series-color: #{$publications-series-color};
+  --monographs-color: #{$publications-monographs-color};
+  --informal-color: #{$publications-informal-color};
+
   .fa-sun {
     display : none;
   }
