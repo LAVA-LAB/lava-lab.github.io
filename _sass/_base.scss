@@ -562,8 +562,17 @@ footer.sticky-bottom {
         .inproceedings {
           background-color: var(--conference-color);
         }
+        .proceedings {
+          background-color: var(--series-color);
+        }
         .phdthesis {
           background-color: var(--monographs-color);
+        }
+        .mastersthesis {
+          background-color: var(--monographs-color);
+        }
+        .incollection {
+          background-color: var(--chapter-color);
         }
         .award {
           color: var(--global-theme-color) !important;
