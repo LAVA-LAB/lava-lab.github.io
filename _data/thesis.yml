@@ -4,6 +4,15 @@
 - author: Bram Pellen
   title: "Robust Permisive Policies for Interval Markov Decision Processes"
 
+- author: Renato Feroce
+  title: "Verifying Inter-Process Communication Between ASML Components"
+  
+- author: Bas Neeleman
+  title: "Improving Deep Q-Learning Performance through Imitation Learning"
+  
+- author: Michel van Wijk
+  title: "Card Games as Constrained Reinforcement Learning Problem"
+
 - author: Merlijn Krale
   title: "Reinforcement Learning in Partially Observable Environments with Active Measuring"
   url: https://arxiv.org/pdf/2303.08271.pdf
