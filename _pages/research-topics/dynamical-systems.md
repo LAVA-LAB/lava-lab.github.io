@@ -10,7 +10,7 @@ pagination:
   tag: dynamical-systems
   title: ':title'
   permalink: /:num/
-  sort_reverse: false
+  sort_reverse: true
   per_page: 3
   trail:
     before: 2
