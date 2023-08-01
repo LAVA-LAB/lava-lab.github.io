@@ -145,6 +145,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  advertisements:
+    output: false
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
@@ -199,7 +201,20 @@ defaults:
       path: "assets/**/*.*"
     values:
       sitemap: false
-
+  -
+    scope:
+      path: "_pages/research-topics" # an empty string here means all files in the project
+    values:
+      pagination: 
+        enabled: true
+        collection: advertisements
+        tag: reinforcement-learning
+        title: ':title'
+        permalink: /:num/
+        per_page: 1
+        trail:
+          before: 1
+          after: 3
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
