@@ -134,7 +134,7 @@
   lastname: Krale
   position: PhD
   image: merlijn.jpeg
-  url: https://www.cs.ru.nl/staff/Merlijn.Krale
+  url: https://mkrale.com/
   teaser: >
     I am interested in model-based algorithms with strong theoretical foundations for complex decision-making processes.
     My current work focusses on partially-observable environments where agents have explicity control over their observations.
