@@ -14,11 +14,13 @@
   title: "Card Games as Constrained Reinforcement Learning Problem"
 
 - author: Merlijn Krale
-  title: "Reinforcement Learning in Partially Observable Environments with Active Measuring"
-  url: https://arxiv.org/pdf/2303.08271.pdf
+  title: "Active Measuring in Uncertain Environments"
+  year: 2023
+  url: https://mkrale.com/assets/pdf/Master_Thesis.pdf
 
 - author: Maris Galesloot
-  title: "Scalable Multi-Agent Online Planning in Partially Observable Environments"
+  title: "Online Planning in Many-Agent POMDPs Addressing Scaling Issues"
+  year: 2023
 
 - author: Eline Bovy
   title: "The Underlying Belief Model of Uncertain Partially Observable Markov Decision Processes"
