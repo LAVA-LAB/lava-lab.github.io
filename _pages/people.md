@@ -20,7 +20,7 @@ positions: [Faculty, Postdoc, PhD, ELLIS Excellence Fellow, Former Member]
   {%- endif -%}
   {% assign n = sorted_members | size %}
     {%- if n > 0 %}
-    <h2 class="category">{{ position }} {{ n }}</h2>
+    <h2 class="category">{{ position }}</h2>
     {%- endif -%}
     {%- for member in sorted_members -%}
       {% include members.html %}
