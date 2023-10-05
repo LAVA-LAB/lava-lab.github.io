@@ -210,6 +210,22 @@
   # social
   github_username: wkoops
 
+- firstname: Markel
+  lastname: Zubia
+  position: ELLIS Excellence Fellow
+  image: markel.png
+  url: 
+  teaser: >
+    I am interested in safe reinforcement learning, my current research focuses on the safe transfer of agents between environments with differing dynamics.
+  interests: 
+    - safe reinforcement learning
+    - computational dynamics
+    - complexity theory
+    - automata theory
+  # social
+  github_username: markelz
+  linkedin_username: markel-zubia-b57459252
+
 - firstname: Yannick
   lastname: Hogewind
   image: yannick.jpeg
