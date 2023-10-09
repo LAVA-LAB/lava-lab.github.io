@@ -132,3 +132,14 @@ Multiple lines of math, for example to write equation systems or if your equatio
 \end{align}
 ```
 
+### Externalize Tikz pictures
+
+You can easily export Tikz pictures into PDF figures, by adding the following to your preamble:
+
+```latex
+\usetikzlibrary{external}
+\tikzexternalize % activate!
+```
+
+If you're on Overleaf, then compile and click the logs. Scroll downwards and click "other logs and files." In this dropdown list, you will find all of the exported figures (you just have to figure out which ones are which; but hint: they are numbered in order of the appearance!).
+
