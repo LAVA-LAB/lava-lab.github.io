@@ -141,5 +141,11 @@ You can easily export Tikz pictures into PDF figures, by adding the following to
 \tikzexternalize % activate!
 ```
 
-If you're on Overleaf, then compile and click the logs. Scroll downwards and click "other logs and files." In this dropdown list, you will find all of the exported figures (you just have to figure out which ones are which; but hint: they are numbered in order of the appearance!).
+Moreover, before each Tikz picture, set the desired filename for the export with:
+
+```latex
+\tikzsetnextfilename{test_figure}
+```
+
+If you're on Overleaf, then compile and click the logs. Scroll downwards and click "other logs and files." In this dropdown list, you will find all of the exported figures. For more options for the externalize package, see: https://tikz.dev/library-external.
 
