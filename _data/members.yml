@@ -217,11 +217,12 @@
   url: 
   teaser: >
     I am interested in safe reinforcement learning, my current research focuses on the safe transfer of agents between environments with differing dynamics.
+    Other research interests include computational dynamics, complexity theory, and automata theory.
   interests: 
     - safe reinforcement learning
-    - computational dynamics
-    - complexity theory
-    - automata theory
+    - robustness 
+    - adversarial machine learning
+    - AI
   # social
   github_username: markelz
   linkedin_username: markel-zubia-b57459252
