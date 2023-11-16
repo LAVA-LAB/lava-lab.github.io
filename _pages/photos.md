@@ -29,7 +29,7 @@ Group photo September 2023.
     </div>
 </div>
 <div class="caption">
-	Eline Bovy reived the best thesis award at BNAIC 2023 in Delft, The Netherlands.
+	Eline Bovy received the best thesis award at BNAIC 2023 in Delft, The Netherlands.
 </div>
 
 ## AISoLA 2023
