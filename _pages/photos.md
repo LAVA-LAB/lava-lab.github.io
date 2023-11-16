@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Photo Gallery
+permalink: /photos/
 description: Photos from our group
+nav: true
+nav_order: 4
 ---
 
 
