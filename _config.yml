@@ -247,8 +247,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  # last_name: [Jansen]
-  # first_name: [Nils]
+  last_name: [Jansen]
+  first_name: [Nils]
 
   style: apa
   locale: en
