@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ''
-description: ''
+title: 'Improved SPI'
+description: 'Improved bounds for safe policy improvement'
 date: 2023-08-23
 tags: reinforcement-learning
 keywords:
