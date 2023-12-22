@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Act-Then-Measure'
-description: 'Reinforcement Learning for Partially Observable Environments with Active Measuring'
+description: 'Reinforcement learning for partially observable environments with active measuring'
 date: 2023-07-09
 tags: reinforcement-learning uncertainty-partial-information
 keywords:
