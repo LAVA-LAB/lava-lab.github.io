@@ -64,21 +64,6 @@
   linkedin_username: schmidl-christoph
   twitter_username: c_schmidl
 
-- firstname: Dennis
-  lastname: Gross
-  position: PhD
-  image: dennis.jpg
-  url: http://dennisgross.org/
-  teaser: >
-    I am a PhD student at the department of software science at Radboud University, working on the formal verification of neural network classifiers and policies under supervision of dr. Nils Jansen, dr. Guillermo Alberto Perez, and prof. dr. Frits Vaandrager.
-  interests:
-    - formal methods
-    - machine learning
-  # social
-  github_username: DennisGross
-  dblp_url: https://dblp.org/pid/264/9707
-  scholar_userid: -9iTZMEAAAAJ
-
 - firstname: Eline
   lastname: Bovy
   position: PhD
@@ -146,31 +131,6 @@
   github_username: MKrale
   dblp_url: https://dblp.org/pid/342/7840.html
 
-- firstname: Thiago D.
-  lastname: Simão
-  image: user.svg
-  position: Postdoc
-  image: thiago.jpg
-  url: https://tdsimao.github.io/
-  teaser: >
-      The motivation for my research revolves around making AI techniques more reliable, to enable their deployment in real-world applications.
-      I focus on developing AI algorithms for scenarios with constrained interactions with an unknown environment.
-  interests:
-    - decision making under uncertainty
-    - safe reinforcement learning
-    - offline reinforcement learning
-    - probabilistic planning
-    - AI
-  # social
-  scholar_userid: uEq4AMUAAAAJ
-  dblp_url: https://dblp.org/pid/229/5739
-  semanticscholar_id: 51893920
-  # former
-  former: true
-  start_year: 2022
-  exit_year: 2023
-  newposition: Assistant Professor at Eindhoven University of Technology
-
 - firstname: Thom
   lastname: Badings
   position: PhD
@@ -226,6 +186,50 @@
   # social
   github_username: markelz
   linkedin_username: markel-zubia-b57459252
+
+- firstname: Dennis
+  lastname: Gross
+  position: PhD
+  image: dennis.jpg
+  url: http://dennisgross.org/
+  teaser: >
+    I am a PhD student at the department of software science at Radboud University, working on the formal verification of neural network classifiers and policies under supervision of dr. Nils Jansen, dr. Guillermo Alberto Perez, and prof. dr. Frits Vaandrager.
+  interests:
+    - formal methods
+    - machine learning
+  # social
+  github_username: DennisGross
+  dblp_url: https://dblp.org/pid/264/9707
+  scholar_userid: -9iTZMEAAAAJ
+  former: true
+  start_year: 2019
+  exit_year: 2023
+  newposition: Postdoctoral Fellow at Simula Research Laboratory, Oslo
+
+- firstname: Thiago D.
+  lastname: Simão
+  image: user.svg
+  position: Postdoc
+  image: thiago.jpg
+  url: https://tdsimao.github.io/
+  teaser: >
+      The motivation for my research revolves around making AI techniques more reliable, to enable their deployment in real-world applications.
+      I focus on developing AI algorithms for scenarios with constrained interactions with an unknown environment.
+  interests:
+    - decision making under uncertainty
+    - safe reinforcement learning
+    - offline reinforcement learning
+    - probabilistic planning
+    - AI
+  # social
+  scholar_userid: uEq4AMUAAAAJ
+  dblp_url: https://dblp.org/pid/229/5739
+  semanticscholar_id: 51893920
+  # former
+  former: true
+  start_year: 2022
+  exit_year: 2023
+  newposition: Assistant Professor at Eindhoven University of Technology
 
 - firstname: Yannick
   lastname: Hogewind
