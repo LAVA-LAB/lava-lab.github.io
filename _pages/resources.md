@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: resources
+title: Resources
 description:  Pointers to software developed in the group.
 nav: true
 nav_order: 3
