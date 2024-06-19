@@ -1,19 +1,19 @@
 ---
 layout: page
-title: for students
+title: For Students
 nav: true
 nav_order: 5
 dropdown: true
 children: 
-    - title: open projects
+    - title: Open Projects
       permalink: /projects/#open
     - title: divider
-    - title: ongoing projects
+    - title: Ongoing Projects
       permalink: /projects/#ongoing
     - title: divider
-    - title: complete projects
+    - title: Complete Projects
       permalink: /projects/#complete
     - title: divider
-    - title: writing tips
+    - title: Writing Tips
       permalink: /writing/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /writing/
-title: writing tips
+title: Writing Tips
 description: A set of (opinionated) tips to get started with writing high-quality scientific reports.
 nav: false
 nav_order: 0

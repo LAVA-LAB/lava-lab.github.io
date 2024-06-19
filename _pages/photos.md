@@ -37,7 +37,7 @@ Group photo at a visit to Nils' new offices in Bochum.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/photo_gallery/Team_PhD_Defense_Dennis.jpg" title="Group photo September 2023" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/photo_gallery/Team_PhD_defense_Dennis.jpg" title="Group photo September 2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

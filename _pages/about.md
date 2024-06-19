@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Combining Artificial Intelligence with Formal Methods.
 

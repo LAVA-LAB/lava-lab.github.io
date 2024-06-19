@@ -1,17 +1,17 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 nav: true
 nav_order: 2
 dropdown: true
 children: 
-    - title: uncertainty and partial information
+    - title: Uncertainty and Partial Information
       permalink: /research/uncertainty_partial_information
     - title: divider
-    - title: reinforcement learning
+    - title: Reinforcement Learning
       permalink: /research/reinforcement_learning
     - title: divider
-    - title: dynamical systems
+    - title: Dynamical Systems
       permalink: /research/dynamical_systems
 ---
