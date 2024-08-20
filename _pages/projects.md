@@ -2,64 +2,69 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Projects available for MSc thesis and interships.
-nav: false
-nav_order: 0
-horizontal: true
+description: 
+nav: true
+nav_order: 3
+horizontal: false
 ---
-
+ 
 This page contains a number of proposals for Bachelor- and Master thesis topics. If you are interested in any of these projects (or in any of our research directions more generally), feel free to send us an email!
 
 <!-- pages/projects.md -->
 <div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
+{% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category" id="{{- category -}}">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+  {% if page.horizontal %}
   <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for project in sorted_projects %}
       {% include projects_horizontal.html %}
-    {%- endfor %}
+    {% endfor %}
     </div>
   </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
+  {% else %}
+  <div class="row-cols-md-2">
+    {% for project in sorted_projects %}
       {% include projects.html %}
-    {%- endfor %}
+    {% endfor %}
   </div>
-  {%- endif -%}
+  {% endif %}
   {% endfor %}
 
-{%- else -%}
+{% else %}
+
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+
+{% assign sorted_projects = site.projects | sort: "importance" %}
+
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+
+{% if page.horizontal %}
+
   <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
+    <div class="row-cols-3">
+    {% for project in sorted_projects %}
       {% include projects_horizontal.html %}
-    {%- endfor %}
+    {% endfor %}
     </div>
   </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
+{% else %}
+  <div class="row row-cols-lg row-gap-5">
+    <!-- .form-group {margin-bottom: 15px;} -->
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
   </div>
-  {%- endif -%}
-{%- endif -%}
+  {% endif %}
+{% endif %}
 </div>
-
-
-## Ongoing projects:
 
 <div class="projects">
 <h2 class="category" id="ongoing">ongoing</h2>
@@ -94,8 +99,6 @@ This page contains a number of proposals for Bachelor- and Master thesis topics.
     </table>
   </div>
 </div>
-
-## Previously completed projects:
 
 <div class="projects">
 <h2 class="category" id="complete">complete</h2>
