@@ -8,6 +8,8 @@ nav_order: 0
 horizontal: false
 ---
 
+This page contains a number of proposals for Bachelor- and Master thesis topics. If you are interested in any of these projects (or in any of our research directions more generally), feel free to send us an email!
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -57,7 +59,7 @@ horizontal: false
 </div>
 
 
-
+## Ongoing projects:
 
 <div class="projects">
 <h2 class="category" id="ongoing">ongoing</h2>
@@ -93,6 +95,7 @@ horizontal: false
   </div>
 </div>
 
+## Previously completed projects:
 
 <div class="projects">
 <h2 class="category" id="complete">complete</h2>
