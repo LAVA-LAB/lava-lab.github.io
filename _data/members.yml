@@ -44,7 +44,7 @@
 
 - firstname: Christoph
   lastname: Schmidl
-  position: PhD
+  position: PhD at Radboud University
   image: christoph.png
   url: https://cschmidl.com/
   teaser: >
@@ -66,7 +66,7 @@
 
 - firstname: Eline
   lastname: Bovy
-  position: PhD
+  position: PhD at Radboud University
   image: eline.jpg
   url: https://elinebovy.github.io/
   teaser: >
@@ -82,7 +82,7 @@
 
 - firstname: Maris
   lastname: Galesloot
-  position: PhD
+  position: PhD at Radboud University
   image: maris.jpg
   url: https://marisgg.github.io/
   teaser: >
@@ -98,7 +98,7 @@
 
 - firstname: Marnix
   lastname: Suilen
-  position: PhD
+  position: PhD at Radboud University
   image: marnix.jpg
   url: https://marnixsuilen.nl/
   teaser: >
@@ -117,7 +117,7 @@
 
 - firstname: Merlijn
   lastname: Krale
-  position: PhD
+  position: PhD at Radboud University
   image: merlijn.jpeg
   url: https://mkrale.com/
   teaser: >
@@ -133,7 +133,7 @@
 
 - firstname: Thom
   lastname: Badings
-  position: PhD
+  position: PhD at Radboud University
   image: thom.jpg
   url: https://thombadings.nl/
   teaser: >
@@ -148,6 +148,66 @@
   # social
   scholar_userid: 7K6uKqoAAAAJ
   dblp_url: https://dblp.org/pid/263/6527
+
+- firstname: Miriam
+  lastname: Ackermann
+  position: PhD at Ruhr University Bochum
+  image: miriam.png
+  url: 
+  teaser: >
+    My research interests include uncertainty quantification and reinforcement
+    learning, with a particular focus on the potential for combining these two
+    fields to enhance the safety of reinforcement learning.
+  interests: 
+    - artificial intelligence 
+    - neural networks
+    - uncertainty quantification
+    - safe reinforcement learning
+  # social
+  scholar_userid: koWarQcAAAAJ
+  linkedin_username: miriam-ackermann-314656245
+
+- firstname: Joshua
+  lastname: Wendland
+  position: PhD at Ruhr University Bochum
+  image: joshua.png
+  url: 
+  teaser: >
+    My research focuses on ensuring safety in Machine Learning applications.
+    I've worked on off-policy evaluation in Reinforcement Learning, particularly
+    in scenarios with incomplete datasets (missingness). Additionally, I've
+    explored language model evaluation and contributed to policy-making in AI
+    Governance. My interests span offline Reinforcement Learning, Robustness,
+    the Alignment Problem, and Deep Learning.
+  interests: 
+    - robustness 
+    - offline reinforcement learning 
+    - safe reinforcement learning 
+    - alignment problem
+  # social
+  linkedin_username: joshuawe042
+  github_username: joshuawe
+
+- firstname: Markel
+  lastname: Zubia
+  position: PhD at Ruhr University Bochum
+  image: markel.png
+  url: 
+  teaser: >
+    I study the theoretical foundations of sequential decision-making under
+    uncertainty. My research interests are broad and include complexity theory,
+    formal verification, dynamical systems, automata theory, recursion theory,
+    and reinforcement learning. I am particularly fascinated by cellular
+    automata, as well as Turing-complete dynamical systems in general.
+  interests: 
+    - formal verification
+    - safe reinforcement learning
+    - robust MDPs
+    - dynamical systems
+    - cellular automata
+  # social
+  github_username: markelz
+  linkedin_username: markel-zubia-b57459252
 
 - firstname: Wietze
   lastname: Koops
@@ -169,23 +229,6 @@
     - decentralized POMDPs
   # social
   github_username: wkoops
-
-- firstname: Markel
-  lastname: Zubia
-  position: ELLIS Excellence Fellow
-  image: markel.png
-  url: 
-  teaser: >
-    I am interested in safe reinforcement learning, my current research focuses on the safe transfer of agents between environments with differing dynamics.
-    Other research interests include computational dynamics, complexity theory, and automata theory.
-  interests: 
-    - safe reinforcement learning
-    - robustness 
-    - adversarial machine learning
-    - AI
-  # social
-  github_username: markelz
-  linkedin_username: markel-zubia-b57459252
 
 - firstname: Dennis
   lastname: Gross

@@ -19,8 +19,9 @@
   url: https://mkrale.com/assets/pdf/Master_Thesis.pdf
 
 - author: Maris Galesloot
-  title: "Online Planning in Many-Agent POMDPs Addressing Scaling Issues"
+  title: "Scaling Online Planning for MPOMDPs with Many Agents: New Algorithm Variants and Addressing Scaling Issues"
   year: 2023
+  url: https://marisgg.github.io/assets/pdf/galesloot_2023_MSc_thesis.pdf
 
 - author: Eline Bovy
   title: "The Underlying Belief Model of Uncertain Partially Observable Markov Decision Processes"

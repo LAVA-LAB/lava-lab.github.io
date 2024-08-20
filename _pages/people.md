@@ -5,7 +5,7 @@ permalink: /people/
 description: List of members.
 nav: true
 nav_order: 1
-positions: [Faculty, Postdoc, PhD, ELLIS Excellence Fellow, Former Member]
+positions: [Faculty, Postdoc, PhD at Radboud University, PhD at Ruhr University Bochum, ELLIS Excellence Fellow, Former Member]
 ---
 
 <!-- pages/member.md -->
