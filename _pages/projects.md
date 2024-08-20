@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects available for MSc thesis and interships.
 nav: false
 nav_order: 0
-horizontal: false
+horizontal: true
 ---
 
 This page contains a number of proposals for Bachelor- and Master thesis topics. If you are interested in any of these projects (or in any of our research directions more generally), feel free to send us an email!
