@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Delayed Observations
+title: Active Measure MDPs
 description: Deciding the value of information in Markov decision processes
-img: assets/img/projects/Magnefied.jpg
+img: assets/img/projects/Magnified.jpg
 importance: 1
 category: open
 ---
