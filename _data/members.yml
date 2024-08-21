@@ -209,6 +209,29 @@
   github_username: markelz
   linkedin_username: markel-zubia-b57459252
 
+- firstname: Marcel
+  lastname: Neuhausen
+  position: Postdoc
+  image: marcel.png
+  url: 
+  teaser: >
+    Having a strong background in computer vision, my research focuses on
+    decision-making under the uncertainty inherent in visual perception. I am
+    particularly interested in developing safe reinforcement learning agents
+    that utilize object recognition to perceive their dynamic environment. My
+    work aims to bridge the gap between perception and action by exploring how
+    intelligent systems can make robust decisions despite uncertain perceptions,
+    ensuring safety and reliability in real-world scenarios.
+  interests: 
+    - computer vision
+    - safe reinforcement learning
+    - decision-making under uncertainty
+  # social
+  linkedin_username: marcel-neuhausen-092a682b4
+  scholar_userid: Ss9FoHAAAAAJ
+  orcid_id: 0000-0001-7765-8140
+  research_gate_profile: Marcel-Neuhausen
+
 - firstname: Wietze
   lastname: Koops
   position: ELLIS Excellence Fellow
@@ -229,6 +252,12 @@
     - decentralized POMDPs
   # social
   github_username: wkoops
+  scholar_userid: fxXPUKUAAAAJ
+  dblp_url: https://dblp.org/pid/354/0648.html
+  former: true
+  start_year: 2022
+  exit_year: 2024
+  newposition: PhD candidate at Lund University
 
 - firstname: Dennis
   lastname: Gross
