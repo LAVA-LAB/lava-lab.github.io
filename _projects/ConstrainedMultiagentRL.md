@@ -14,6 +14,7 @@ category: open
 Affinity with or the motivation to learn about Markov decision processes and reinforcement learning is a big plus. Starting this project can easily lead you to a bachelor/master thesis and possibly to a scientific publication. Please feel free to reach out to maris.galesloot@ru.nl for any questions.
 
 [1] Maris Galesloot, Thiago D. Simão, Sebastian Junges, Nils Jansen. Factored Online Planning in Many-Agent POMDPs. AAAI, 2024.
+
 [2] Jongmin Lee, Geon-hyeong Kim, Pascal Poupart, Kee-Eung Kim. Monte-Carlo Tree Search for Constrained POMDPs. NeurIPS, 2018.
 
 *Supervisors:* [Maris Galesloot MSc](https://marisgg.github.io/), [Dr. Thiago D. Simão](https://tdsimao.github.io/), and [Prof. Dr. Nils Jansen](https://nilsjansen.org/)
