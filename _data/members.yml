@@ -188,6 +188,25 @@
   linkedin_username: joshuawe042
   github_username: joshuawe
 
+- firstname: Jule
+  lastname: Schmidt
+  position: PhD at Ruhr University Bochum
+  image: jule.jpeg
+  url: 
+  teaser: >
+    I am interested in methods that improve the generalizability and robustness
+    of (Deep) Reinforcement Learning, with a particular focus on Causal RL. My
+    research aims to enhance the reliability and safety of RL by integrating
+    causal reasoning into the learning process.
+  interests: 
+    - reinforcement learning
+    - deep learning
+    - causality
+    - safe reinforcement learning
+  # social
+  linkedin_username: jule-schmidt
+  github_username: julemarie
+
 - firstname: Markel
   lastname: Zubia
   position: PhD at Ruhr University Bochum
