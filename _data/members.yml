@@ -76,7 +76,7 @@
   github_username: marisgg
   linkedin_username: maris-galesloot
 
-  - firstname: Merlijn
+- firstname: Merlijn
   lastname: Krale
   position: PhD at Radboud University
   image: merlijn.jpeg
@@ -261,7 +261,7 @@
   former: true
   dblp_url: https://dblp.org/pid/263/6527
 
-  - firstname: Wietze
+- firstname: Wietze
   lastname: Koops
   position: ELLIS Excellence Fellow
   image: wietze.jpg
