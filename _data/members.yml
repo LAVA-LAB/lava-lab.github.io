@@ -42,27 +42,7 @@
   facebook_id: # your facebook id
   discord_id: # your discord id (18-digit unique numerical identifier)
 
-- firstname: Christoph
-  lastname: Schmidl
-  position: PhD at Radboud University
-  image: christoph.png
-  url: https://cschmidl.com/
-  teaser: >
-    My research interests are safe reinforcement learning and formal verification applied to real-world scheduling problems.
-    My current work focuses on robust scheduler learning with constrained interactions using reinforcement learning techniques applied to different shop types such as job shops and flow shops.
-  interests:
-    - safe reinforcement learning
-    - scheduling
-    - robustness
-    - AI
-    - DevOps
-    - formal verification
-    - security
-  # social
-  github_username: ChristophSchmidl
-  scholar_userid: OgGLzqsAAAAJ
-  linkedin_username: schmidl-christoph
-  twitter_username: c_schmidl
+### RADBOUD - CURRENT ###
 
 - firstname: Eline
   lastname: Bovy
@@ -96,26 +76,7 @@
   github_username: marisgg
   linkedin_username: maris-galesloot
 
-- firstname: Marnix
-  lastname: Suilen
-  position: PhD at Radboud University
-  image: marnix.jpg
-  url: https://marnixsuilen.nl/
-  teaser: >
-    My research interests are formal verification and learning in probabilistic systems such as (partially observable) Markov decision processes and variations that extend these models with uncertainty.
-    Other interests include coalgebra (especially for probabilistic systems), (robust) convex optimization, and algorithms in general. 
-  interests:
-    - decision making under uncertainty
-    - POMDPs
-    - formal verification
-    - artificial intelligence
-    - offline reinforcement learning
-  # social
-  scholar_userid: 8sS0Vv0AAAAJ
-  dblp_url: https://dblp.org/pid/258/5780
-  twitter_username: marnixsuilen
-
-- firstname: Merlijn
+  - firstname: Merlijn
   lastname: Krale
   position: PhD at Radboud University
   image: merlijn.jpeg
@@ -131,23 +92,7 @@
   github_username: MKrale
   dblp_url: https://dblp.org/pid/342/7840.html
 
-- firstname: Thom
-  lastname: Badings
-  position: PhD at Radboud University
-  image: thom.jpg
-  url: https://thombadings.nl/
-  teaser: >
-    My primary research interests are on the intersection between Engineering, Systems & Control, and Formal Verification.
-    Currently, I am working on sequential decision making under uncertainty with correctness guarantees, with applications to autonomous and robotics systems, predictive maintenance, and electrical power systems.
-  interests: 
-    - systems and control
-    - decision making under uncertainty
-    - artificial intelligence
-    - abstraction-based controller synthesis
-    - predictive maintenance
-  # social
-  scholar_userid: 7K6uKqoAAAAJ
-  dblp_url: https://dblp.org/pid/263/6527
+### BOCHUM - CURRENT ###
 
 - firstname: Miriam
   lastname: Ackermann
@@ -251,7 +196,72 @@
   orcid_id: 0000-0001-7765-8140
   research_gate_profile: Marcel-Neuhausen
 
-- firstname: Wietze
+### RADBOUD - FORMER ###
+
+- firstname: Christoph
+  lastname: Schmidl
+  position: PhD at Radboud University
+  image: christoph.png
+  url: https://cschmidl.com/
+  teaser: >
+    My research interests are safe reinforcement learning and formal verification applied to real-world scheduling problems.
+    My current work focuses on robust scheduler learning with constrained interactions using reinforcement learning techniques applied to different shop types such as job shops and flow shops.
+  interests:
+    - safe reinforcement learning
+    - scheduling
+    - robustness
+    - AI
+    - DevOps
+    - formal verification
+    - security
+  # social
+  former: false # TODO: check this?
+  github_username: ChristophSchmidl
+  scholar_userid: OgGLzqsAAAAJ
+  linkedin_username: schmidl-christoph
+  twitter_username: c_schmidl
+  newposition: Lecturer at Rhine-Waal University
+
+- firstname: Marnix
+  lastname: Suilen
+  position: PhD at Radboud University
+  image: marnix.jpg
+  url: https://marnixsuilen.nl/
+  teaser: >
+    My research interests are formal verification and learning in probabilistic systems such as (partially observable) Markov decision processes and variations that extend these models with uncertainty.
+    Other interests include coalgebra (especially for probabilistic systems), (robust) convex optimization, and algorithms in general. 
+  interests:
+    - decision making under uncertainty
+    - POMDPs
+    - formal verification
+    - artificial intelligence
+    - offline reinforcement learning
+  # social
+  scholar_userid: 8sS0Vv0AAAAJ
+  former: true
+  dblp_url: https://dblp.org/pid/258/5780
+  twitter_username: marnixsuilen
+
+- firstname: Thom
+  lastname: Badings
+  position: PhD at Radboud University
+  image: thom.jpg
+  url: https://thombadings.nl/
+  teaser: >
+    My primary research interests are on the intersection between Engineering, Systems & Control, and Formal Verification.
+    Currently, I am working on sequential decision making under uncertainty with correctness guarantees, with applications to autonomous and robotics systems, predictive maintenance, and electrical power systems.
+  interests: 
+    - systems and control
+    - decision making under uncertainty
+    - artificial intelligence
+    - abstraction-based controller synthesis
+    - predictive maintenance
+  # social
+  scholar_userid: 7K6uKqoAAAAJ
+  former: true
+  dblp_url: https://dblp.org/pid/263/6527
+
+  - firstname: Wietze
   lastname: Koops
   position: ELLIS Excellence Fellow
   image: wietze.jpg
@@ -356,3 +366,8 @@
     - deep reinforcement learning
     - business process monitoring and optimisation
     - self-supervised and transfer learning
+
+
+### BOCHUM - FORMER ###
+
+# None yet!
