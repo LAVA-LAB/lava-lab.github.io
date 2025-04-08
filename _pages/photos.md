@@ -9,21 +9,36 @@ nav_order: 4
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/photo_gallery/BochumTriangle.jpg" title="Group photo februari 2024" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/photo_gallery/BochumTriangle2.jpg" title="Group photo februari 2025" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Group picture in Bochum.
 </div>
 
+
+## PhD Defense Thom Badings
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photo_gallery/DefenseThomGroup.jpg" title="Group Picture at Thoms PhD defense." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photo_gallery/DefenseThomCertificate.jpg" title="Thom receives his PhD certificate" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+	Photos at the PhD defense of Thom Badings.
+</div>
+
 ## Christmas in Bochum
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/photo_gallery/BochumPainting1.jpg" title="Nils Jansens inauguration speech." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/photo_gallery/BochumPainting1.jpg" title="Christmas activity in Bochum." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/photo_gallery/BochumPainting2.jpg" title="Group photo at Nils Jansens inauguration speech" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/photo_gallery/BochumPainting2.jpg" title="Christmas activity in Bochum." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,7 +49,7 @@ nav_order: 4
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/photo_gallery/WietzeThesis.jpg" title="Group photo februari 2024" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/photo_gallery/WietzeThesis.jpg" title="Wietze receives a Best Thesis Award" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

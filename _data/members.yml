@@ -196,6 +196,29 @@
   orcid_id: 0000-0001-7765-8140
   research_gate_profile: Marcel-Neuhausen
 
+- firstname: Maximilian
+  lastname: Weininger
+  position: Postdoc
+  image: maximilian.png
+  url: 
+  teaser: >
+    My work revolves around formal verification of safety-critical systems.
+    The main branch of my work is concerned with the model of stochastic games, 
+    which are probabilistic systems exhibiting controlled as well as adversarial 
+    non-determinism. Another branch of my work considers compact and explainable 
+    representation of controllers.
+  interests: 
+    - formal verification
+    - stochastic games
+    - explainable AI
+  # social
+  linkedin_username: maximilian-weininger-670ba5214
+  scholar_userid: 88fkEooAAAAJ
+  orcid_id: 0000-0002-0163-2152
+  research_gate_profile: Maximilian-Weininger
+  dblp_url: https://dblp.org/pid/194/2910.html
+
+
 ### RADBOUD - FORMER ###
 
 - firstname: Christoph
