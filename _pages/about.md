@@ -6,7 +6,7 @@ subtitle: Combining Artificial Intelligence with Formal Methods.
 
 profile:
   align: left
-  image: BochumTriangle.jpg
+  image: photo_gallery/BochumTriangle.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Mercator 1 Building</p>
