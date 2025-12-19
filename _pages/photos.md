@@ -7,6 +7,52 @@ nav: true
 nav_order: 4
 ---
 
+## Christmas in Bochum (2025)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photo_gallery/Workshop_Dec_2025.jpg" title="Group photo December 2025" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photo_gallery/Workshop_Dec_2025_2.jpg" title="Thom receives his PhD certificate" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photo_gallery/Workshop_Dec_2025_3.jpg" title="Thom receives his PhD certificate" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Christmas AI-FM workshop 2025.
+</div>
+
+## PhD Defense Marnix Suilen
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photo_gallery/Defense_Marnix.jpg" title="Marnix receives his PhD certificate" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Christmas AI-FM workshop 2025.
+</div>
+
+## AI-FM Workshop July 2025
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photo_gallery/Workshop_July_2025_1.jpg" title="Group photo july 2025" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photo_gallery/Workshop_July_2025_2.jpg" title="Groups photo at dinner" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Group picture at AI-FM workshop July 2025.
+</div>
+
+## AI-FM Workhop Februari 2025
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/photo_gallery/BochumTriangle2.jpg" title="Group photo februari 2025" class="img-fluid rounded z-depth-1" %}
@@ -31,7 +77,7 @@ nav_order: 4
 	Photos at the PhD defense of Thom Badings.
 </div>
 
-## Christmas in Bochum
+## Christmas in Bochum (2024)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
