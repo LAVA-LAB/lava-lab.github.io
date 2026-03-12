@@ -67,14 +67,17 @@
   url: https://marisgg.github.io/
   teaser: >
     My primary research interests lie in sequential decision making in uncertain environments with partial observability.
-    My work focuses on the intersection of a formal model-based approach and neural function approximation methods in reinforcement learning and aims to improve the scalability, applicability, and robustness of these algorithms in the real world.
+    My work focuses on developing algorithms within the intersection of formal model-based approaches and neural approximation methods and aims to improve the scalability, applicability, and robustness of such algorithms.
   interests: 
+    - POMDPs
+    - planning under uncertainty
     - model-based reinforcement learning
-    - deep learning
-    - online planning
+    - neural networks
+    - probabilistic verification
   # social
   github_username: marisgg
   linkedin_username: maris-galesloot
+  dblp_url: https://dblp.org/pid/365/4403.html
 
 - firstname: Merlijn
   lastname: Krale
