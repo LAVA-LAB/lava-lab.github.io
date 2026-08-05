@@ -98,6 +98,23 @@
 
 ### BOCHUM - CURRENT ###
 
+-  firstname: Florian
+   lastname: Kuhm
+   position: PhD at Ruhr University Bochum
+   image: florian.jpg
+   url: 
+   teaser: >
+     My research lies at the intersection of Safe Reinforcement Learning and practical deployment.
+     I aim to design RL algorithms backed by solid theoretical safety guarantees while directly addressing
+     real-world applicability and the Sim2Real gap. Overall, my goal is to make learning-based systems both
+     provably safe and reliable in practice.
+   interests:
+     - Safe Reinforcement Learning
+     - CMDPs
+     - Sim2Real gap
+   # social
+   linkedin_username: florian-kuhm
+
 - firstname: Miriam
   lastname: Ackermann
   position: PhD at Ruhr University Bochum
