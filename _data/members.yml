@@ -101,7 +101,7 @@
 -  firstname: Sjoerd
    lastname: Jansen
    position: PhD at Ruhr University Bochum
-   image: 
+   image: sjoerd.png
    url: 
    teaser: >
      My interests are in safe or risk aware decision making under uncertainty, particularly the theoretical foundations and formal guarantees. My current work has been on safe coordination for multi-agent systems. 
