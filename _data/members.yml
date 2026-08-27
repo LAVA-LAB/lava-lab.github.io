@@ -98,6 +98,22 @@
 
 ### BOCHUM - CURRENT ###
 
+-  firstname: Sjoerd
+   lastname: Jansen
+   position: PhD at Ruhr University Bochum
+   image: 
+   url: 
+   teaser: >
+	My interests are in safe or risk aware decision making under uncertainty, particularly the theoretical foundations and formal guarantees. My current work has been on safe coordination for multi-agent systems. 
+   interests:
+     - safe planning and learning
+     - CPOMDPs
+     - risk awareness
+     - multi-agent systems
+   # social
+   linkedin_username: sajn-jansen
+   github_username: Sajn-Jansen
+
 -  firstname: Florian
    lastname: Kuhm
    position: PhD at Ruhr University Bochum
