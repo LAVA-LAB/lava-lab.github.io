@@ -104,7 +104,7 @@
    image: 
    url: 
    teaser: >
-	My interests are in safe or risk aware decision making under uncertainty, particularly the theoretical foundations and formal guarantees. My current work has been on safe coordination for multi-agent systems. 
+     My interests are in safe or risk aware decision making under uncertainty, particularly the theoretical foundations and formal guarantees. My current work has been on safe coordination for multi-agent systems. 
    interests:
      - safe planning and learning
      - CPOMDPs
